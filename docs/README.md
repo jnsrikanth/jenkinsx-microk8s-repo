@@ -29,7 +29,7 @@
     <tr>
 	      <td><a href='https://github.com/jenkins-x/jx-pipelines-visualizer' title='Web UI for Jenkins X, with a clear goal - visualize the pipelines - and their logs.'> <img src='https://raw.githubusercontent.com/jenkins-x/jenkins-x-website/master/images/logo/jenkinsx-icon-color.svg' width='24px' height='24px'> jx-pipelines-visualizer </a></td>
 	      <td>1.3.2</td>
-	      <td></td>
+	      <td><a href='http://dashboard-jx.10.1.190.68.nip.io'>view</a></td>
 	      <td><a href='https://github.com/jenkins-x/jx-pipelines-visualizer'>source</a></td>
 	    </tr>
     <tr>
@@ -82,15 +82,6 @@
 	      <td>0.0.59</td>
 	      <td></td>
 	      <td><a href='https://jenkins-x.io/'>source</a></td>
-	    </tr>
-    <tr>
-		      <td colspan='4'><h3>nginx</h3></td>
-		    </tr>
-	    <tr>
-	      <td><a href='https://github.com/kubernetes/ingress-nginx' title='Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png' width='24px' height='24px'> ingress-nginx </a></td>
-	      <td>3.12.0</td>
-	      <td></td>
-	      <td><a href='https://github.com/kubernetes/ingress-nginx'>source</a></td>
 	    </tr>
     <tr>
 		      <td colspan='4'><h3>tekton-pipelines</h3></td>
